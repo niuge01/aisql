@@ -1,4 +1,6 @@
-## AISQL:  A SparkSQL extension for AI application
+## AISQL:  SQL for AI application
+
+Visit count: [![HitCount](http://hits.dwyl.io/jackylk/carbonlake/aisql.svg)](http://hits.dwyl.io/jackylk/carbonlake/aisql)
 
 使用方式:
 ```scala
